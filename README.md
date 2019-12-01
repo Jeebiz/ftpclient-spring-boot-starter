@@ -1,4 +1,4 @@
-# spring-boot-starter-ftpclient
+# ftpclient-spring-boot-starter
 Spring Boot Starter For jeebiz-ftpclient
 
 ### 说明
@@ -12,7 +12,7 @@ Spring Boot Starter For jeebiz-ftpclient
 ``` xml
 <dependency>
 	<groupId>net.jeebiz</groupId>
-	<artifactId>spring-boot-starter-ftpclient</artifactId>
+	<artifactId>ftpclient-spring-boot-starter</artifactId>
 	<version>${project.version}</version>
 </dependency>
 ```
